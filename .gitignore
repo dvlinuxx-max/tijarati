@@ -1,0 +1,24 @@
+# OpenWolf / Claude tooling — NOT part of the product
+.wolf/
+.claude/
+CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build output
+build/
+dist/
+*.spec
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
